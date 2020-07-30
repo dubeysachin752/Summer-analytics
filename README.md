@@ -10,9 +10,9 @@ Week 2 -> Data analysis
     Project: Chicago crime detection
     
     
-Week 3 -> Data analysis 
+Week 3 -> Linear regression  
     
-    Project: ____
+    Project: Bussiness Profit analysis 
 
 
 Week 4 -> Data analysis 
