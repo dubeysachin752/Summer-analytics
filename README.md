@@ -20,7 +20,7 @@ Week 4 -> Machine leaning
     Project: Product analysis using sk.learn 
 
 
-Week 5 -> Deep learning 
+Week 5 -> Neural networks  
     
     Project: ____
 
