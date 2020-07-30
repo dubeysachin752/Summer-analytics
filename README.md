@@ -22,7 +22,7 @@ Week 4 -> Machine leaning
 
 Week 5 -> Neural networks  
     
-    Project: ____
+    Project: Image detection
 
 
 Week 6 -> Deep learning 
