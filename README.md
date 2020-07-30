@@ -1,6 +1,6 @@
 # Summer-analytics
 
-Week 1 -> web scrpting 
+Week 1 -> web scrapting 
     
     Project: Harverd univercity data extraction from wikipedia
     
