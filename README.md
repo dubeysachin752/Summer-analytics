@@ -15,9 +15,9 @@ Week 3 -> Linear regression
     Project: Bussiness Profit analysis 
 
 
-Week 4 -> Data analysis 
+Week 4 -> Machine leaning  
     
-    Project: ____
+    Project: Product analysis using sk.learn 
 
 
 Week 5 -> Deep learning 
