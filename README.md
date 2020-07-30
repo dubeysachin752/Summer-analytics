@@ -12,17 +12,17 @@ Week 2 -> Data analysis
     
 Week 3 -> Data analysis 
     
-    Project: Chicago crime detection
+    Project: ____
 
 
 Week 4 -> Data analysis 
     
-    Project: Chicago crime detection
+    Project: ____
 
 
 Week 5 -> Deep learning 
     
-    Project: Chicago crime detection
+    Project: ____
 
 
 Week 6 -> Deep learning 
